@@ -1,4 +1,4 @@
-# ose-FO-fulltest
+# ose-FO-publictest
 
 Call /api/test/1/calltest for hello world
 
