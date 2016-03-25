@@ -1,3 +1,4 @@
+USER root
 FROM python:2.7.11
 MAINTAINER David Hatch "david.hatch@wolterskluwer.com"
 
