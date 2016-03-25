@@ -1,5 +1,5 @@
-USER root
 FROM python:2.7.11
+USER root
 MAINTAINER David Hatch "david.hatch@wolterskluwer.com"
 
 RUN apt-get update && apt-get install -y \
